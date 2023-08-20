@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=22272d&height=100&section=header&text=Good%20to%20see%20you!&fontSize=50&fontColor=e7e7e7)
 
-
- 
  <br><br>
- 📝 Blog
+ 📝 
  <br>
-[![Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/zmffhqj714)](https://blog.naver.com/zmffhqj714)
+[ソン·テジン, TaejinSong, 송태진]
 <br>
 <br>
 🚀 Skills 
