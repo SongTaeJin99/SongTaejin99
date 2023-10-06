@@ -50,8 +50,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
 
-  Else
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=backjoon714)](https://solved.ac//)
 
