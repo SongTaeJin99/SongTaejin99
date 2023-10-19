@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <br><br>
  📝 
  <br>
-[ソン·テジン, TaejinSong, 송태진]
+[ソン·テジン, SongTaejin, 송태진]
 <br>
 <br>
 🚀 Skills 
